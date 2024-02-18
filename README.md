@@ -7,7 +7,8 @@ This project serves as a tutorial for integrating React Hook Form with Zod in a 
 
 ![home](https://github.com/IndySeh/nextjs-react-hook-forms-zod-jest/assets/115108831/46d81436-93de-4e2e-bd9f-3a249ac35c2d)
 
-![Create Next App · 1 16am · 02-18 copy](https://github.com/IndySeh/nextjs-react-hook-forms-zod-jest/assets/115108831/8c5329f8-cca3-44b1-897e-24009683cb6e)
+![Signup](https://github.com/IndySeh/nextjs-react-hook-forms-zod-jest/assets/115108831/94b2e895-2c80-4900-868b-ff01db699ca0)
+
 
 ![Login](https://github.com/IndySeh/nextjs-react-hook-forms-zod-jest/assets/115108831/68698d6b-6e7d-48fd-881e-f504703daf1c)
 
