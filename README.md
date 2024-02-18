@@ -5,6 +5,11 @@ Welcome to the project.
 ## Overview
 This project serves as a tutorial for integrating React Hook Form with Zod in a TypeScript environment, specifically within a Next.js application styled with Tailwind CSS. By following along with this project, you'll learn how to build robust, type-safe forms effortlessly.
 
+![home](https://github.com/IndySeh/nextjs-react-hook-forms-zod-jest/assets/115108831/46d81436-93de-4e2e-bd9f-3a249ac35c2d)
+
+![Create Next App · 1 16am · 02-18 copy](https://github.com/IndySeh/nextjs-react-hook-forms-zod-jest/assets/115108831/8c5329f8-cca3-44b1-897e-24009683cb6e)
+
+![Login](https://github.com/IndySeh/nextjs-react-hook-forms-zod-jest/assets/115108831/68698d6b-6e7d-48fd-881e-f504703daf1c)
 
 
 
