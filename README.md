@@ -27,14 +27,14 @@ git clone https://github.com/IndySeh/nextjs-react-hook-forms-zod-jest.git
 cd nextjs-react-hook-forms-zod-jest 
 ```
 
-3. **Start the development server:**
-```bash
-npm run dev
-```
-
-4. **Install dependencies:**
+3. **Install dependencies:**
 ```bash
 npm install
+```
+
+4. **Start the development server:**
+```bash
+npm run dev
 ```
 
 5. **Open your browser and visit:**
